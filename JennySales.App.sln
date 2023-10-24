@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JennySales.App", "JennySales.App\JennySales.App.csproj", "{662A47F9-11FD-4FC3-A4D1-55C7E659BEA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JennySales.Helpers", "..\JennySales.Helpers\JennySales.Helpers\JennySales.Helpers.csproj", "{BAD3CF72-1B70-44F7-A256-5468219E4182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662A47F9-11FD-4FC3-A4D1-55C7E659BEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662A47F9-11FD-4FC3-A4D1-55C7E659BEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662A47F9-11FD-4FC3-A4D1-55C7E659BEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662A47F9-11FD-4FC3-A4D1-55C7E659BEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD3CF72-1B70-44F7-A256-5468219E4182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD3CF72-1B70-44F7-A256-5468219E4182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD3CF72-1B70-44F7-A256-5468219E4182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD3CF72-1B70-44F7-A256-5468219E4182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF88AC8C-7012-45D8-8C0A-99941CA23203}
+	EndGlobalSection
+EndGlobal
